@@ -1,5 +1,7 @@
 .App {
+  position: fixed;
   text-align: center;
+  background-color: #f8b7d6;
 }
 
 .App-logo {
@@ -22,6 +24,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
@@ -35,4 +38,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} 
